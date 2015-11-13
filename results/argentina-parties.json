@@ -1,0 +1,140 @@
+{
+  "0131": {
+    "nombre_completo": "ALIANZA FRENTE PARA LA VICTORIA",
+    "nombre_corto": "FPV",
+    "color_partido": "#1796D7",
+    "cand_id": "3166",
+    "cand_completo": "Daniel Scioli",
+    "cand_corto": "D. Scioli",
+    "cand_apellido": "Scioli",
+    "cand_foto": "Scioli",
+    "especial": "0",
+    "orden": "0",
+    "rango": [
+      "#1796D7",
+      "#65BBE6",
+      "#99D2EE"
+    ]
+  },
+  "0132": {
+    "nombre_completo": "PROGRESISTAS",
+    "nombre_corto": "Progresistas",
+    "color_partido": "#7CC374",
+    "cand_id": "3008",
+    "cand_completo": "Margarita Rosa Stolbizer",
+    "cand_corto": "M. Stolbizer",
+    "cand_apellido": "Stolbizer",
+    "cand_foto": "Stolbizer",
+    "especial": "0",
+    "orden": "1",
+    "rango": [
+      "#7AC370",
+      "#A7D7A0",
+      "#C6E5C1"
+    ]
+  },
+  "0133": {
+    "nombre_completo": "ALIANZA COMPROMISO FEDERAL",
+    "nombre_corto": "C. Federal",
+    "color_partido": "#888888",
+    "cand_id": "3100",
+    "cand_completo": "Adolfo Rodríguez Saá",
+    "cand_corto": "R. Saá",
+    "cand_apellido": "Saá",
+    "cand_foto": "Rodriguez_Saa",
+    "especial": "0",
+    "orden": "2",
+    "rango": [
+      "#888888",
+      "#C3C3C3",
+      "#E6E6E6"
+    ]
+  },
+  "0135": {
+    "nombre_completo": "ALIANZA CAMBIEMOS",
+    "nombre_corto": "Cambiemos",
+    "color_partido": "#FEDB30",
+    "cand_id": "3182",
+    "cand_completo": "Mauricio Macri",
+    "cand_corto": "M. Macri",
+    "cand_apellido": "Macri",
+    "cand_foto": "Macri",
+    "especial": "0",
+    "orden": "3",
+    "rango": [
+      "#FEDB30",
+      "#FEE776",
+      "#FEEFA3"
+    ]
+  },
+  "0137": {
+    "nombre_completo": "ALIANZA FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES",
+    "nombre_corto": "FIT",
+    "color_partido": "#d06868",
+    "cand_id": "3014",
+    "cand_completo": "Nicolás del Caño",
+    "cand_corto": "N. del Caño",
+    "cand_apellido": "Del Caño",
+    "cand_foto": "del_cano",
+    "especial": "0",
+    "orden": "4",
+    "rango": [
+      "#F05A23",
+      "#F5926E",
+      "#F8B79F"
+    ]
+  },
+  "0138": {
+    "nombre_completo": "ALIANZA UNIDOS POR UNA NUEVA ALTERNATIVA",
+    "nombre_corto": "UNA",
+    "color_partido": "#D6BBEA",
+    "cand_id": "3192",
+    "cand_completo": "Sergio Massa",
+    "cand_corto": "S. Massa",
+    "cand_apellido": "Massa",
+    "cand_foto": "Massa",
+    "especial": "0",
+    "orden": "5",
+    "rango": [
+      "#B084B7",
+      "#CBAED0",
+      "#DDC9E0"
+    ]
+  },
+  "BLC": {
+    "nombre_completo": "En blanco",
+    "color_partido": "#BDBB86",
+    "nombre_corto": "En blanco",
+    "especial": "1",
+    "orden": "6",
+    "rango": [
+      "#BDBB86",
+      "#d4d2af",
+      "#e9e9d7"
+    ]
+  },
+  "NUL": {
+    "nombre_completo": "Nulos",
+    "color_partido": "#BDBB86",
+    "nombre_corto": "Nulos",
+    "especial": "1",
+    "orden": "7",
+    "rango": [
+      "#BDBB86",
+      "#d4d2af",
+      "#e9e9d7"
+    ]
+  },
+  "IMP": {
+    "nombre_completo": "Impugnados",
+    "color_partido": "#BDBB86",
+    "nombre_corto": "Impugnados",
+    "especial": "1",
+    "orden": "8",
+    "rango": [
+      "#BDBB86",
+      "#d4d2af",
+      "#e9e9d7"
+    ]
+  }
+}
